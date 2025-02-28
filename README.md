@@ -1,2 +1,2 @@
 # Papas Page
-![Papas Web](./img/Screenshot.png) 
+![Papas Web](./img/web.png) 
